@@ -41,6 +41,8 @@ $\text{similarity}(a,b) = \cos(x_a,x_b) = \frac{x_a \cdot x_b}{\|x_a\|\|x_b\|}$
 ![pairplot.png](/images/pairplot.png)
 ![pca_explained_variance.png](/images/pca_explained_variance.png)
 
+
+[![Everything Is AWESOME](https://i.sstatic.net/q3ceS.png)](https://www.youtube.com/watch?v=ujC34WyIu_A "Everything Is AWESOME")
 <!-- Attempt to embed local MP4 (may not always play inline on GitHub) -->
 <video src="images/demo.mp4" controls="controls" style="max-width: 100%;">
   Your browser does not support the video tag.
