@@ -133,3 +133,6 @@ class RecipeSimilarityApp:
 
 ## DATA link
 https://drive.google.com/file/d/1n9Wa6DRbx3ssIfIJZHhNqlo_viLs4Ut4/view?usp=sharing
+
+## Data credit
+https://github.com/josephrmartinez/recipe-dataset
