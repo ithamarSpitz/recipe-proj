@@ -42,14 +42,7 @@ $\text{similarity}(a,b) = \cos(x_a,x_b) = \frac{x_a \cdot x_b}{\|x_a\|\|x_b\|}$
 ![pca_explained_variance.png](/images/pca_explained_variance.png)
 
 
-[![Everything Is AWESOME](https://i.sstatic.net/q3ceS.png)](https://www.youtube.com/watch?v=ujC34WyIu_A "Everything Is AWESOME")
-
-
-<div align="left">
-      <a href="https://www.youtube.com/watch?v=5yLzZikS15k">
-         <img src="https://img.youtube.com/vi/5yLzZikS15k/0.jpg" style="width:100%;">
-      </a>
-</div>
+[![Everything Is AWESOME](https://img.youtube.com/vi/ujC34WyIu_A/0.jpg)](https://www.youtube.com/watch?v=ujC34WyIu_A "Everything Is AWESOME")
 
 ### 3.1 Dimensionality Analysis
 Principal Component Analysis reveals:
