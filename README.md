@@ -42,14 +42,7 @@ $\text{similarity}(a,b) = \cos(x_a,x_b) = \frac{x_a \cdot x_b}{\|x_a\|\|x_b\|}$
 ![pca_explained_variance.png](/images/pca_explained_variance.png)
 
 
-[![Everything Is AWESOME](https://i.sstatic.net/q3ceS.png)](https://www.youtube.com/watch?v=ujC34WyIu_A "Everything Is AWESOME")
 
-
-<div align="left">
-      <a href="https://www.youtube.com/watch?v=5yLzZikS15k">
-         <img src="https://img.youtube.com/vi/5yLzZikS15k/0.jpg" style="width:100%;">
-      </a>
-</div>
 
 ### 3.1 Dimensionality Analysis
 Principal Component Analysis reveals:
@@ -133,4 +126,10 @@ class RecipeSimilarityApp:
 2. Transformer architectures for text embeddings
 3. Recipe embedding papers
 
-[View full implementation on GitHub](https://github.com/username/recipe-embeddings)
+
+## YouTube Using Example
+
+[![Everything Is AWESOME](https://img.youtube.com/vi/ujC34WyIu_A/0.jpg)](https://www.youtube.com/watch?v=ujC34WyIu_A "Everything Is AWESOME")
+
+## DATA link
+https://drive.google.com/file/d/1n9Wa6DRbx3ssIfIJZHhNqlo_viLs4Ut4/view?usp=sharing
