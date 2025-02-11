@@ -40,10 +40,9 @@ $\text{similarity}(a,b) = \cos(x_a,x_b) = \frac{x_a \cdot x_b}{\|x_a\|\|x_b\|}$
 ![kmeans_clusters.png](/images/kmeans_clusters.png)
 ![pairplot.png](/images/pairplot.png)
 ![pca_explained_variance.png](/images/pca_explained_variance.png)
-<video width="320" height="240" controls>
-  <source src="/images/VID-20250210-WA0007.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
+https://github.com/ithamarSpitz/recipe-proj/blob/main/images/VID-20250210-WA0007.mp4
+
 ### 3.1 Dimensionality Analysis
 Principal Component Analysis reveals:
 
