@@ -5,10 +5,11 @@
 ## [Download here](https://drive.google.com/file/d/1n9Wa6DRbx3ssIfIJZHhNqlo_viLs4Ut4/view?usp=sharing)
 
 ## YouTube Video For Using Example
+
 [![Everything Is AWESOME](https://img.youtube.com/vi/ujC34WyIu_A/0.jpg)](https://www.youtube.com/watch?v=ujC34WyIu_A "Everything Is AWESOME")
 
-## References, data source, credits and license
+### References, data source, credits and license
 
- - https://huggingface.co/Alibaba-NLP/gte-multilingual-base
- - https://github.com/josephrmartinez/recipe-dataset
- - https://creativecommons.org/licenses/by-sa/3.0/
+ - [model](https://huggingface.co/Alibaba-NLP/gte-multilingual-base)
+ - [data](https://github.com/josephrmartinez/recipe-dataset)
+ - [license](https://creativecommons.org/licenses/by-sa/3.0/)
