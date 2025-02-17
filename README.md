@@ -11,3 +11,4 @@
 
  - https://huggingface.co/Alibaba-NLP/gte-multilingual-base
  - https://github.com/josephrmartinez/recipe-dataset
+ - https://creativecommons.org/licenses/by-sa/3.0/
