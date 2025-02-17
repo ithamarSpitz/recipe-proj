@@ -8,7 +8,7 @@
 
 [![Everything Is AWESOME](https://img.youtube.com/vi/ujC34WyIu_A/0.jpg)](https://www.youtube.com/watch?v=ujC34WyIu_A "Everything Is AWESOME")
 
-### References, data source, credits and license
+### References
 
  - [model](https://huggingface.co/Alibaba-NLP/gte-multilingual-base)
  - [data](https://github.com/josephrmartinez/recipe-dataset)
